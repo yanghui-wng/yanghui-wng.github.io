@@ -100,23 +100,3 @@ Content Cell | Content Cell | Content Cell
 使用html标签<br/>换行
 
 -------
-
-```flow
-st=>start:Start
-e=>end:End
-op1=>operation:Give a,b,c,x1,x2,y1,y2,sl
-op2=>operation:cs1=0.618
-op3=>operation:x1=b-c(b-a);x2=a+c(b-a);y1=x1*(x1+2);y2=x2*(x2+2)
-op4=>operation:sl=(a+b)/2
-cond1=>condition:y1>=y2?
-io1=>inputoutput:a=x1;x1=x2;y1=y2
-io2=>inputoutput:x2=a+c(b-a);y2=x2*(x2+2)
-sub1=>subroutine:b=a;x2=x1;y2=y1;
-sub2=>subroutine:x1=b-c*(b-a);y1=x1(x1+2)
-cond2=>condition:|(b-a)/b|<c&&|(y2-y1)/y2|<C?
-st->op1->op2->op3->cond1
-cond1(yes)->io->io2->cond2
-cond1(no)->sub1->sub2->cond2
-cond2(yes)->op4->e
-cond2(no)->cond1
-```
