@@ -2,7 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yanghuiwang.net.cn/tags/index.html</loc>
+    
+    <lastmod>2020-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/repository/index.html</loc>
+    
+    <lastmod>2020-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/categories/index.html</loc>
+    
+    <lastmod>2020-08-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yanghuiwang.net.cn/links/index.html</loc>
+    
+    <lastmod>2020-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/about/index.html</loc>
     
     <lastmod>2020-08-18</lastmod>
     
