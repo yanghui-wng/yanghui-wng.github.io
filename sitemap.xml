@@ -102,7 +102,14 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%EF%BC%8C%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86%EF%BC%8C%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2020-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2020-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
