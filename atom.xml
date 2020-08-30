@@ -6,7 +6,7 @@
   <link href="http://yanghuiwang.net.cn/atom.xml" rel="self"/>
   
   <link href="http://yanghuiwang.net.cn/"/>
-  <updated>2020-08-28T09:20:43.908Z</updated>
+  <updated>2020-08-30T02:01:34.165Z</updated>
   <id>http://yanghuiwang.net.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yanghuiwang.net.cn/2020/08/23/How-to-upload-pictures-with-picgo-and-typora/"/>
     <id>http://yanghuiwang.net.cn/2020/08/23/How-to-upload-pictures-with-picgo-and-typora/</id>
     <published>2020-08-23T08:35:26.000Z</published>
-    <updated>2020-08-28T09:20:43.908Z</updated>
+    <updated>2020-08-30T02:01:34.165Z</updated>
     
     <content type="html"><![CDATA[<h1 id="利用gitee薅一个免费图床"><a class="markdownIt-Anchor" href="#利用gitee薅一个免费图床"></a> 利用gitee薅一个免费图床</h1><p>因为GitHub服务器原因，导致blog图片加载巨慢，所以决定使用gitee建立一个图库。</p><h2 id="注册gitee账号"><a class="markdownIt-Anchor" href="#注册gitee账号"></a> 注册gitee账号</h2><p>注册很简单网址：<a href="https://gitee.com">https://gitee.com</a>，注册之后点击右上角的+号</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/v2-44a4581b8e0ac9a0bc6747ee9b507a0e_720w.jpg" alt="img" /></p><p>之后进行配置：</p><ol><li>输入仓库名称</li><li>一定要设置公开</li><li>选中readme初始化</li><li>创建master分支</li></ol><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/v2-11790828fe9ce436ea6d92fbe1c0662f_720w.jpg" alt="tai" /></p><p>之后进行私人令牌配置</p><p>点击头像，点击设置，找的私人令牌，点击生成新令牌。</p><p>进行如下配置。</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/v2-9d8ba0adb98d509d3de8c1b615c68353_720w.jpg" alt="img" /></p><p>生成令牌，这就是之后用到的token。（截屏一下，只显示一次）</p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/v2-7d9e998d82ae965fe7f1ddd93d59d48a_720w.jpg" alt="img" style="zoom:100%;" /><h2 id="下载配置picgo"><a class="markdownIt-Anchor" href="#下载配置picgo"></a> 下载配置PicGo</h2><p>官网下载太慢，放网盘。</p><p>提取码：ym2y</p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/B63907B56207F9FB70E15F26794B7F6A.png" alt="B63907B56207F9FB70E15F26794B7F6A" style="zoom:50%;" /><p>配置如下：</p><p>搜索插件gitee，我选的第一个。</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/image-20200823165511144.png" alt="image-20200823165511144" /></p><p>然后进行配置</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/image-20200823165731082.png" alt="image-20200823165731082" /></p><p>owner: gitee名</p><p>repo：仓库名</p><p>path: img</p><p>token: 前面生成的</p><p>最后点击设为默认。</p><h2 id="typora中配置picgo"><a class="markdownIt-Anchor" href="#typora中配置picgo"></a> Typora中配置PicGo</h2><p>保证typora版本0.9.84以上</p><p>下载</p><p>提取码：a5ol</p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/5DE268F8743A36BF81F42828DEF9AC5F.png" alt="5DE268F8743A36BF81F42828DEF9AC5F" style="zoom:50%;" /><p>打开typora，点击<strong>格式</strong>–&gt;<strong>图像</strong>–&gt;<strong>全局图像设置</strong></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/v2-4879ba262fb12db3aab4ba6cc2d46673_720w.jpg" alt="img" /></p><p>进行图片显示的设置</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/20200824180742.png" alt="image-20200824180742111" /></p><p>出现如图所示，则配置成功。</p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/meegee/blog/raw/master/img/20200824180819.png" alt="image-20200824180819614" /></p>]]></content>
     
