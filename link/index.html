@@ -58,19 +58,19 @@ if (autoChangeMode === '1') {
       el: '#vcomment',
       appId: 'awTKDWinfpCp5ALP4nXrcsiu-gzGzoHsz',
       appKey: 'zOxxNCfMz8eplSocbI2gd7OF',
-      placeholder: 'ヾﾉ≧∀≦)o',
-      avatar: 'monsterid',
-      meta: 'nick,mail,link'.split(','),
+      placeholder: '说点什么吧！ //评论框默认显示',
+      avatar: 'hide //评论者的头像,我这里设置的不显示',
+      meta: 'nick'.split(','),
       pageSize: '10',
-      lang: 'zh-CN',
-      recordIP: false,
+      lang: '',
+      recordIP: ,
       serverURLs: '',
       emojiCDN: '',
       emojiMaps: "",
-      enableQQ: false,
+      enableQQ: ,
       path: window.location.pathname,
     });
-    if ('nick,mail') { valine.config.requiredFields= 'nick,mail'.split(',') }
+    if ('') { valine.config.requiredFields= ''.split(',') }
   }
 
   if (typeof Valine === 'function') initValine() 
