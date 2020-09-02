@@ -151,20 +151,6 @@
 
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/Github/</loc>
-    <lastmod>2020-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/Hexo/</loc>
-    <lastmod>2020-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yanghuiwang.net.cn/tags/Gitee/</loc>
     <lastmod>2020-09-02</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +166,20 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/typora/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/Github/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/Hexo/</loc>
     <lastmod>2020-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
