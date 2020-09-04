@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yanghuiwang.net.cn/2020/08/22/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
+    
+    <lastmod>2020-09-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yanghuiwang.net.cn/2020/08/23/How-to-upload-pictures-with-picgo-and-typora/</loc>
     
     <lastmod>2020-08-31</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/2020/08/22/%E5%9F%BA%E4%BA%8EC52%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E9%BA%A6%E5%85%8B%E7%BA%B3%E5%A7%86%E8%BD%AE%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6%E5%88%B6%E4%BD%9C/</loc>
-    
-    <lastmod>2020-08-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/2020/08/22/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
     
     <lastmod>2020-08-30</lastmod>
     
@@ -144,7 +144,7 @@
 
   <url>
     <loc>http://yanghuiwang.net.cn/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,77 +152,77 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/Gitee/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/Picgo/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/typora/</loc>
-    <lastmod>2020-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/Github/</loc>
-    <lastmod>2020-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/Hexo/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/C51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/Github/</loc>
+    <lastmod>2020-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/Hexo/</loc>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -231,14 +231,14 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/categories/Github/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yanghuiwang.net.cn/categories/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B/</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
