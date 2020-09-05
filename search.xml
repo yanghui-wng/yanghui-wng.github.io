@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>网页循环</title>
+      <link href="/2020/09/05/%E7%BD%91%E9%A1%B5%E5%BE%AA%E7%8E%AF/"/>
+      <url>/2020/09/05/%E7%BD%91%E9%A1%B5%E5%BE%AA%E7%8E%AF/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是一个测试文档网页"><a class="markdownIt-Anchor" href="#这是一个测试文档网页"></a> 这是一个测试文档网页</h1><h2 id="ps手机端可能加载不出来的bug"><a class="markdownIt-Anchor" href="#ps手机端可能加载不出来的bug"></a> PS——手机端可能加载不出来的bug</h2><h2 id="展示网页"><a class="markdownIt-Anchor" href="#展示网页"></a> 展示网页</h2><div class="row">    <embed src="https://yanghuiwang.net.cn/2020/09/05/write-test/" width="100%" height="550" type="application/pdf"></div> ]]></content>
+      
+      
+      <categories>
+          
+          <category> 云文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网页 </tag>
+            
+            <tag> 循环 </tag>
+            
+            <tag> 吃内存 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>write-test</title>
       <link href="/2020/09/05/write-test/"/>
       <url>/2020/09/05/write-test/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是一个测试文档网页"><a class="markdownIt-Anchor" href="#这是一个测试文档网页"></a> 这是一个测试文档网页</h1><div class="row">    <embed src="https://kdocs.cn/l/ss962i7Px5Vd" width="100%" height="550" type="application/pdf"></div> ]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是一个测试文档网页"><a class="markdownIt-Anchor" href="#这是一个测试文档网页"></a> 这是一个测试文档网页</h1><h2 id="ps手机端可能加载不出来的bug"><a class="markdownIt-Anchor" href="#ps手机端可能加载不出来的bug"></a> PS——手机端可能加载不出来的bug</h2><h2 id="展示word"><a class="markdownIt-Anchor" href="#展示word"></a> 展示word</h2><div class="row">    <embed src="https://kdocs.cn/l/ss962i7Px5Vd" width="100%" height="550" type="application/pdf"></div> <h2 id="展示ppt"><a class="markdownIt-Anchor" href="#展示ppt"></a> 展示PPT</h2><div class="row">    <embed src="https://kdocs.cn/l/cfP7ExAmPgS6" width="100%" height="550" type="application/pdf"></div> <h2 id="展示网页"><a class="markdownIt-Anchor" href="#展示网页"></a> 展示网页</h2><div class="row">    <embed src="https://yanghuiwang.net.cn/2020/09/05/write-test/" width="100%" height="550" type="application/pdf"></div> ]]></content>
       
       
       <categories>
