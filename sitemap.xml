@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yanghuiwang.net.cn/2020/09/05/%E7%BD%91%E9%A1%B5%E5%BE%AA%E7%8E%AF/</loc>
-    
-    <lastmod>2020-09-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yanghuiwang.net.cn/2020/09/05/write-test/</loc>
     
     <lastmod>2020-09-05</lastmod>
@@ -200,20 +193,6 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/C51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2020-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6/</loc>
-    <lastmod>2020-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yanghuiwang.net.cn/tags/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>daily</changefreq>
@@ -222,6 +201,20 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/WPS/</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/C51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6/</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -255,27 +248,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
-    <lastmod>2020-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E5%BE%AA%E7%8E%AF/</loc>
-    <lastmod>2020-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E5%90%83%E5%86%85%E5%AD%98/</loc>
-    <lastmod>2020-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
@@ -286,14 +258,14 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
