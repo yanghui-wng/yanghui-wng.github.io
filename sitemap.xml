@@ -221,20 +221,6 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/C51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yanghuiwang.net.cn/tags/%E6%BF%80%E5%85%89%E5%99%A8/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
@@ -249,14 +235,21 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>http://yanghuiwang.net.cn/tags/C51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E8%8B%B1%E8%AF%AD%EF%BC%8C%E6%95%99%E5%AD%A6%E6%97%A5%E5%8E%86/</loc>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -271,6 +264,13 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E8%8B%B1%E8%AF%AD%EF%BC%8C%E6%95%99%E5%AD%A6%E6%97%A5%E5%8E%86/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -293,14 +293,14 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E5%85%89%E5%AD%A6%E6%BF%80%E5%85%89%E5%99%A8/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E5%85%89%E5%AD%A6%E6%BF%80%E5%85%89%E5%99%A8/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
