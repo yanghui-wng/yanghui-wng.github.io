@@ -214,20 +214,6 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%BF%80%E5%85%89%E5%99%A8/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yanghuiwang.net.cn/tags/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
@@ -236,6 +222,20 @@
   
   <url>
     <loc>http://yanghuiwang.net.cn/tags/WPS/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%BF%80%E5%85%89%E5%99%A8/</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yanghuiwang.net.cn/tags/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -293,14 +293,14 @@
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E5%85%89%E5%AD%A6%E6%BF%80%E5%85%89%E5%99%A8/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yanghuiwang.net.cn/categories/%E4%BA%91%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://yanghuiwang.net.cn/categories/%E5%85%89%E5%AD%A6%E6%BF%80%E5%85%89%E5%99%A8/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
